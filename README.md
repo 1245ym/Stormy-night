@@ -1,3 +1,5 @@
-https://tracesof.net/uebersicht-widgets/#ghostkwebb-cool-clock
-https://tracesof.net/uebersicht-widgets/#uebersicht-snowflakes
-https://www.wallper.app
+| App Name | Link |
+| :--- | :--- |
+| **Cool Clock** | [GitHub](https://github.com/ghostkwebb/cool-clock) |
+| **Magic Snowflakes** | [GitHub](https://github.com/theLMGN/magic-snowflakes) |
+| **Wallper** | [Official Site](https://www.wallper.app) |
